@@ -22,4 +22,4 @@ wp-content/*
 !wp-content/themes
 wp-content/themes/*
 !wp-content/themes/potato-life
-!wp-content/themes/potato-life/*
+!wp-content/themes/potato-life/**/*
